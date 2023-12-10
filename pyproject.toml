@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "speech-graph-generator"
+version = "0.1.0"
+description = ""
+authors = ["oguzhankir <oguzhan.kir@b2metric.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pyaudio = "^0.2.14"
+audiorecorder = "^0.1"
+transformers = "^4.35.2"
+speechrecognition = "^3.10.1"
+whisper-timestamped = {git = "https://github.com/linto-ai/whisper-timestamped"}
+gradio = "^4.8.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
