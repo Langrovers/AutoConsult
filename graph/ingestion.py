@@ -9,8 +9,8 @@ from neo4j import GraphDatabase
 
 from config import Config
 from gpt.graph import process_gpt
-from prompts.cyper import *
-from .cyper import generate_cypher
+from prompts.cypher import *
+from .cypher import generate_cypher
 
 
 def neo4j_ingestion():

@@ -5,7 +5,7 @@ from langchain.chains import GraphCypherQAChain
 from langchain.chat_models import ChatOpenAI
 from langchain.graphs import Neo4jGraph
 from langchain.prompts.prompt import PromptTemplate
-from prompts.cyper import *
+from prompts.cypher import *
 
 def process_gpt(file_prompt, system_msg):
     """Uses GPT-4 to generate a response based on a file prompt and system message.
