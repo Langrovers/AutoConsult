@@ -17,7 +17,7 @@ class AudioRecorder:
         self.is_paused = False
         self.thread = None
         self.record_counter = 0
-        self.path = os.path.join("records", datetime.today().strftime(format="%d%m%y-%H%M%S"))
+        self.path = os.path.join("records/user1", datetime.today().strftime(format="%d%m%y-%H%M%S"))
         self.transcriber = Transcriber()
 
     def start_or_resume_recording(self):
