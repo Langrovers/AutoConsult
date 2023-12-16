@@ -1,0 +1,29 @@
+Çağrı Merkezi Çalışanı: "Merhaba, XYZ Otomotiv Çağrı Merkezine hoş geldiniz, size nasıl yardımcı olabilirim?"
+
+Müşteri: "Merhaba, yeni bir araba almayı düşünüyorum ve bazı seçenekler hakkında bilgi almak istiyorum."
+
+Çağrı Merkezi Çalışanı: "Elbette, size yardımcı olmaktan memnuniyet duyarım. Hangi tür bir araba arıyorsunuz? Belirli bir model veya marka mı var aklınızda?"
+
+Müşteri: "Açıkçası, bir aile arabası arıyorum. Güvenlik ve yakıt verimliliği benim için önemli. SUV veya sedan modelleri düşünüyorum."
+
+Çağrı Merkezi Çalışanı:"Anlıyorum, bu durumda size şu modelleri önerebilirim: XYZ Marka Model 1, Model 2 ve Model 3. Model 1 ve Model 2, yüksek güvenlik derecelendirmelerine ve iyi yakıt ekonomisine sahip SUV'lerdir. Model 3 ise, aileler için ideal olan geniş iç hacim ve konfor sunan bir sedandır."
+
+Müşteri: "Peki, bu modellerin fiyat aralıkları nedir?"
+
+Çağrı Merkezi Çalışanı: "Model 1 için başlangıç fiyatı yaklaşık 300.000 TL, Model 2 için 350.000 TL ve Model 3 için ise 280.000 TL'dir. Tabii ki, donanım seviyesine ve ekstra özelliklere göre fiyatlar değişebilir."
+
+Müşteri: "Anladım, teşekkür ederim. Bu modellerin test sürüşü yapma şansım var mı?"
+
+Çağrı Merkezi Çalışanı:** "Elbette, en yakın bayimizde bu modellerin test sürüşünü yapabilirsiniz. Size en uygun zamanı belirlemek için randevu oluşturabiliriz. Hangi günler sizin için uygun olur?"
+
+Müşteri: "Bu hafta sonu müsaitim."
+
+Çağrı Merkezi Çalışanı: "Mükemmel, bu hafta sonu için bir test sürüşü randevusu ayarlayacağım. Adınız ve iletişim bilgilerinizi alabilir miyim lütfen?"
+
+Müşteri: "Tabii, adım Ahmet Yılmaz. Telefon numaram 05XX XXX XX XX."
+
+Çağrı Merkezi Çalışanı: "Teşekkür ederim, Ahmet Bey. Randevunuzu oluşturdum. Test sürüşü günü ve saati hakkında sizi bilgilendireceğiz. Başka bir sorunuz veya yardımcı olabileceğim bir şey var mı?"
+
+Müşteri: "Şimdilik bu kadar, teşekkür ederim."
+
+Çağrı Merkezi Çalışanı: "Rica ederim, iyi günler dilerim. XYZ Otomotiv Çağrı Merkezi'ni aradığınız için teşekkür ederiz."

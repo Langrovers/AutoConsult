@@ -1,0 +1,34 @@
+Vehicle Model: BMW M Serisi
+Dealer Location: Diyarbakir
+Service Type: Scheduled Maintenance
+Maintenance Date: 2023-08-25
+Service Details: Engine tune-up and suspension check
+Dealer Feedback: Meticulous and expert service
+
+Vehicle Model: Jaguar F-Type
+Dealer Location: Izmir
+Service Type: Accident Reporting
+Reporting Date: 2023-07-30
+Service Details: Front fender and headlamp repair
+Dealer Feedback: Exceptional workmanship and quick turnaround
+
+Vehicle Model: BMW i8
+Dealer Location: Ankara
+Service Type: Insurance Renewal
+Renewal Date: 2023-06-22
+Service Details: Policy update with enhanced liability coverage
+Dealer Feedback: Informative and efficient service
+
+Vehicle Model: LR Range Rover Sport
+Dealer Location: Istanbul
+Service Type: Vehicle Purchase
+Purchase Date: 2023-08-18
+Service Details: New SUV purchase with custom features
+Dealer Feedback: Very accommodating and attentive to detail
+
+Vehicle Model: BMW X5
+Dealer Location: Izmir
+Service Type: Vehicle Upgrade
+Upgrade Date: 2023-09-12
+Service Details: Adding advanced navigation system and exterior enhancements
+Dealer Feedback: Professional advice and superior installation quality

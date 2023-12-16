@@ -1,0 +1,34 @@
+Müşteri Temsilcisi: "XYZ Araç Kiralama'ya hoş geldiniz, size nasıl yardımcı olabilirim?"
+
+Müşteri: "Merhaba, birkaç günlüğüne araba kiralamak istiyorum. Hangi seçenekleriniz var?"
+
+Müşteri Temsilcisi: "Tabii, ne tür bir araba arıyorsunuz? Ekonomik, orta sınıf, ya da lüks bir araç mı düşünüyorsunuz?"
+
+Müşteri: "Orta sınıf bir araba olabilir. Yolculuğum için konforlu ve güvenli bir araç arıyorum."
+
+Müşteri Temsilcisi: "Anlıyorum. Bu durumda, Toyota Corolla veya Volkswagen Passat gibi modelleri önerebilirim. Her ikisi de oldukça konforlu ve güvenli araçlardır."
+
+Müşteri: "Peki, bu araçların günlük kiralama ücretleri ne kadar?"
+
+Müşteri Temsilcisi: "Toyota Corolla için günlük 250 TL, Volkswagen Passat için ise 300 TL kiralama ücreti alıyoruz. Fiyatlarımız tüm vergiler ve sigortalar dahildir."
+
+Müşteri: "Kiralama süresi ne kadar uzarsa, fiyatta bir indirim oluyor mu?"
+
+Müşteri Temsilcisi: "Evet, 5 günden uzun kiralama süreleri için özel indirimlerimiz bulunuyor. Örneğin, 7 gün ve üzeri kiralamalarda günlük ücret %10 indirimli olacaktır."
+
+Müşteri: "Anladım, teşekkür ederim. Toyota Corolla kiralamak istiyorum ve 7 gün süreyle."
+
+Müşteri Temsilcisi: "Mükemmel seçim. Kiralama tarihlerinizi ve teslim alacağınız şubeyi belirleyelim. Ne zaman başlamak istersiniz?"
+
+Müşteri: "Yarından itibaren başlayabiliriz."
+
+Müşteri Temsilcisi: "Tamamdır, yarın için bir Toyota Corolla rezerve edeceğim. Lütfen kimlik ve ehliyet bilgilerinizi hazır bulundurun. Ödeme şeklinizi nasıl yapmak istersiniz?"
+
+Müşteri: "Kredi kartı ile ödeyeceğim."
+
+Müşteri Temsilcisi: "Anlaşıldı. Yarın şubemizde sizi bekliyor olacağız. Kiralama işlemleri ve aracınız hakkında detaylı bilgi verilecektir. Başka bir sorunuz var mı?"
+
+Müşteri: "Hayır, teşekkürler. Yarın görüşmek üzere."
+
+Müşteri Temsilcisi: "Rica ederim, iyi günler dilerim. XYZ Araç Kiralama'yı tercih ettiğiniz için teşekkür ederiz."
+

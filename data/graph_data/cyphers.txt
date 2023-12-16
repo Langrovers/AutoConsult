@@ -1,0 +1,179 @@
+MERGE (n:Customer {id: "custErenGuler"}) ON CREATE SET n.name = "Eren Guler", n.age = "33", n.sex = "Male", n.occupation = "Graphic Designer", n.dealer = "Istanbul", n.action = "Vehicle Purchase", n.licenseDuration = "15", n.customerTenure = "3"
+MERGE (n:Vehicle {id: "vehicleBMWi8"}) ON CREATE SET n.model = "BMW i8"
+MERGE (n:Customer {id: "custSelinOzdemir"}) ON CREATE SET n.name = "Selin Ozdemir", n.age = "29", n.sex = "Female", n.occupation = "Software Developer", n.dealer = "Ankara", n.action = "Insurance Renewal", n.licenseDuration = "11", n.customerTenure = "2"
+MERGE (n:Vehicle {id: "vehicleJaguarFType"}) ON CREATE SET n.model = "Jaguar F-Type"
+MERGE (n:Customer {id: "custMuratYildiz"}) ON CREATE SET n.name = "Murat Yildiz", n.age = "46", n.sex = "Male", n.occupation = "Surgeon", n.dealer = "Izmir", n.action = "Scheduled Maintenance", n.licenseDuration = "28", n.customerTenure = "12"
+MERGE (n:Vehicle {id: "vehicleLRRangeRoverSport"}) ON CREATE SET n.model = "LR Range Rover Sport"
+MERGE (n:Customer {id: "custAycaKarasu"}) ON CREATE SET n.name = "Ayca Karasu", n.age = "24", n.sex = "Female", n.occupation = "University Student", n.dealer = "Diyarbakir", n.action = "Accident Reporting", n.licenseDuration = "6", n.customerTenure = "1"
+MERGE (n:Vehicle {id: "vehicleMINIHatch"}) ON CREATE SET n.model = "MINI Hatch"
+MERGE (n:Customer {id: "custBurakTekin"}) ON CREATE SET n.name = "Burak Tekin", n.age = "40", n.sex = "Male", n.occupation = "Business Owner", n.dealer = "Istanbul", n.action = "Vehicle Upgrade", n.licenseDuration = "22", n.customerTenure = "10"
+MERGE (n:Vehicle {id: "vehicleBMWX5"}) ON CREATE SET n.model = "BMW X5"
+MERGE (n:Customer {id: "custZeynepKaya"}) ON CREATE SET n.name = "Zeynep Kaya", n.age = "37", n.sex = "Female", n.occupation = "Lawyer", n.dealer = "Ankara", n.action = "Vehicle Purchase", n.licenseDuration = "19", n.customerTenure = "8"
+MERGE (n:Vehicle {id: "vehicleJaguarXJ"}) ON CREATE SET n.model = "Jaguar XJ"
+MERGE (n:Customer {id: "custAliDemirci"}) ON CREATE SET n.name = "Ali Demirci", n.age = "31", n.sex = "Male", n.occupation = "Architect", n.dealer = "Izmir", n.action = "Insurance Renewal", n.licenseDuration = "13", n.customerTenure = "4"
+MERGE (n:Vehicle {id: "vehicleBMW3Series"}) ON CREATE SET n.model = "BMW 3 Serisi"
+MERGE (n:Customer {id: "custElifCetin"}) ON CREATE SET n.name = "Elif Cetin", n.age = "42", n.sex = "Female", n.occupation = "Marketing Manager", n.dealer = "Diyarbakir", n.action = "Scheduled Maintenance", n.licenseDuration = "24", n.customerTenure = "9"
+MERGE (n:Vehicle {id: "vehicleBMWMseries"}) ON CREATE SET n.model = "BMW M Serisi"
+MERGE (n:Customer {id: "custMehmetAksoy"}) ON CREATE SET n.name = "Mehmet Aksoy", n.age = "35", n.sex = "Male", n.occupation = "Engineer", n.dealer = "Istanbul", n.action = "Accident Reporting", n.licenseDuration = "17", n.customerTenure = "5"
+MERGE (n:Vehicle {id: "vehicleBMWi8"}) ON CREATE SET n.model = "BMW i8"
+MERGE (n:Customer {id: "custBanuAltin"}) ON CREATE SET n.name = "Banu Altin", n.age = "30", n.sex = "Female", n.occupation = "Entrepreneur", n.dealer = "Ankara", n.action = "Vehicle Purchase", n.licenseDuration = "12", n.customerTenure = "3"
+MERGE (n:Vehicle {id: "vehicleJaguarFType"}) ON CREATE SET n.model = "Jaguar F-Type"
+MERGE (n:Customer {id: "custCananYilmaz"}) ON CREATE SET n.name = "Canan Yilmaz", n.age = "28", n.sex = "Female", n.occupation = "Chef", n.dealer = "Izmir", n.action = "Vehicle Purchase", n.licenseDuration = "10", n.customerTenure = "2"
+MERGE (n:Vehicle {id: "vehicleRRSport"}) ON CREATE SET n.model = "LR Range Rover Sport"
+MERGE (n:Customer {id: "custOsmanKara"}) ON CREATE SET n.name = "Osman Kara", n.age = "43", n.sex = "Male", n.occupation = "Journalist", n.dealer = "Istanbul", n.action = "Scheduled Maintenance", n.licenseDuration = "25", n.customerTenure = "11"
+MERGE (n:Vehicle {id: "vehicleBMW3Series"}) ON CREATE SET n.model = "BMW 3 Serisi"
+MERGE (n:Customer {id: "custSedaAltin"}) ON CREATE SET n.name = "Seda Altin", n.age = "39", n.sex = "Female", n.occupation = "Banker", n.dealer = "Ankara", n.action = "Insurance Renewal", n.licenseDuration = "21", n.customerTenure = "9"
+MERGE (n:Vehicle {id: "vehicleMINIHatch"}) ON CREATE SET n.model = "MINI Hatch"
+MERGE (n:Customer {id: "custEmrahSen"}) ON CREATE SET n.name = "Emrah Sen", n.age = "34", n.sex = "Male", n.occupation = "Software Developer", n.dealer = "Diyarbakir", n.action = "Vehicle Upgrade", n.licenseDuration = "16", n.customerTenure = "6"
+MERGE (n:Vehicle {id: "vehicleBMWX5"}) ON CREATE SET n.model = "BMW X5"
+MERGE (n:Customer {id: "custLeylaOzturk"}) ON CREATE SET n.name = "Leyla Ozturk", n.age = "31", n.sex = "Female", n.occupation = "School Principal", n.dealer = "Izmir", n.action = "Accident Reporting", n.licenseDuration = "13", n.customerTenure = "5"
+MERGE (n:Vehicle {id: "vehicleJaguarXJ"}) ON CREATE SET n.model = "Jaguar XJ"
+MERGE (n:Customer {id: "custAhmetDemir"}) ON CREATE SET n.name = "Ahmet Demir", n.age = "47", n.sex = "Male", n.occupation = "Entrepreneur", n.dealer = "Istanbul", n.action = "Insurance Renewal", n.licenseDuration = "29", n.customerTenure = "15"
+MERGE (n:Vehicle {id: "vehicleBmwMSerisi"}) ON CREATE SET n.model = "BMW M Serisi"
+MERGE (n:Customer {id: "custElifCelik"}) ON CREATE SET n.name = "Elif Celik", n.age = "26", n.sex = "Female", n.occupation = "Architect", n.dealer = "Ankara", n.action = "Vehicle Upgrade", n.licenseDuration = "8", n.customerTenure = "3"
+MERGE (n:Vehicle {id: "vehicleBmwI8"}) ON CREATE SET n.model = "BMW i8"
+MERGE (n:Customer {id: "custMuratOzcan"}) ON CREATE SET n.name = "Murat Ozcan", n.age = "40", n.sex = "Male", n.occupation = "Doctor", n.dealer = "Diyarbakir", n.action = "Vehicle Purchase", n.licenseDuration = "22", n.customerTenure = "10"
+MERGE (n:Vehicle {id: "vehicleJaguarFType"}) ON CREATE SET n.model = "Jaguar F-Type"
+MERGE (n:Customer {id: "custZeynepKorkmaz"}) ON CREATE SET n.name = "Zeynep Korkmaz", n.age = "35", n.sex = "Female", n.occupation = "Marketing Manager", n.dealer = "Izmir", n.action = "Accident Reporting", n.licenseDuration = "17", n.customerTenure = "7"
+MERGE (n:Vehicle {id: "vehicleLrRangeRoverSport"}) ON CREATE SET n.model = "LR Range Rover Sport"
+MERGE (n:Customer {id: "custBarisTekin"}) ON CREATE SET n.name = "Baris Tekin", n.age = "30", n.sex = "Male", n.occupation = "Engineer", n.dealer = "Istanbul", n.action = "Vehicle Purchase", n.licenseDuration = "12", n.customerTenure = "4"
+MERGE (n:Vehicle {id: "vehicleBmw3Serisi"}) ON CREATE SET n.model = "BMW 3 Serisi"
+MERGE (n:Dealer {id: "dealerIstanbul"}) ON CREATE SET n.name = "Istanbul"
+MERGE (n:Vehicle {id: "vehicleI8"}) ON CREATE SET n.model = "BMW i8"
+MERGE (n:Service {id: "servicePurchase"}) ON CREATE SET n.type = "Vehicle Purchase"
+MERGE (n:Feedback {id: "feedbackIstanbulPurchase"}) ON CREATE SET n.comment = "Exceptionally smooth and personalized purchasing experience"
+MERGE (n:Dealer {id: "dealerAnkara"}) ON CREATE SET n.name = "Ankara"
+MERGE (n:Vehicle {id: "vehicleFType"}) ON CREATE SET n.model = "Jaguar F-Type"
+MERGE (n:Service {id: "serviceMaintenance"}) ON CREATE SET n.type = "Scheduled Maintenance"
+MERGE (n:Feedback {id: "feedbackAnkaraMaintenance"}) ON CREATE SET n.comment = "Detailed and efficient service provided"
+MERGE (n:Dealer {id: "dealerIzmir"}) ON CREATE SET n.name = "Izmir"
+MERGE (n:Vehicle {id: "vehicleRRSport"}) ON CREATE SET n.model = "LR Range Rover Sport"
+MERGE (n:Service {id: "serviceInsurance"}) ON CREATE SET n.type = "Insurance Renewal"
+MERGE (n:Feedback {id: "feedbackIzmirInsurance"}) ON CREATE SET n.comment = "Helpful and thorough in explaining new terms"
+MERGE (n:Dealer {id: "dealerDiyarbakir"}) ON CREATE SET n.name = "Diyarbakir"
+MERGE (n:Vehicle {id: "vehicleHatch"}) ON CREATE SET n.model = "MINI Hatch"
+MERGE (n:Service {id: "serviceAccident"}) ON CREATE SET n.type = "Accident Reporting"
+MERGE (n:Feedback {id: "feedbackDiyarbakirAccident"}) ON CREATE SET n.comment = "Fast and flawless repair work"
+MERGE (n:Dealer {id: "dealerIstanbulX5"}) ON CREATE SET n.name = "Istanbul"
+MERGE (n:Vehicle {id: "vehicleX5"}) ON CREATE SET n.model = "BMW X5"
+MERGE (n:Service {id: "serviceUpgrade"}) ON CREATE SET n.type = "Vehicle Upgrade"
+MERGE (n:Feedback {id: "feedbackIstanbulUpgrade"}) ON CREATE SET n.comment = "Expert installation and high-quality upgrades"
+MERGE (n:Dealer {id: "dealerAnkara"}) ON CREATE SET n.name = "Ankara"
+MERGE (n:Dealer {id: "dealerIzmir"}) ON CREATE SET n.name = "Izmir"
+MERGE (n:Dealer {id: "dealerDiyarbakir"}) ON CREATE SET n.name = "Diyarbakir"
+MERGE (n:Dealer {id: "dealerIstanbul"}) ON CREATE SET n.name = "Istanbul"
+MERGE (n:Vehicle {id: "vehicleJaguarXJ"}) ON CREATE SET n.model = "Jaguar XJ"
+MERGE (n:Vehicle {id: "vehicleBMW3Series"}) ON CREATE SET n.model = "BMW 3 Serisi"
+MERGE (n:Vehicle {id: "vehicleBMWMSeries"}) ON CREATE SET n.model = "BMW M Serisi"
+MERGE (n:Vehicle {id: "vehicleBMWi8"}) ON CREATE SET n.model = "BMW i8"
+MERGE (n:Vehicle {id: "vehicleJaguarFType"}) ON CREATE SET n.model = "Jaguar F-Type"
+MERGE (n:Service {id: "servicePurchase"}) ON CREATE SET n.type = "Vehicle Purchase"
+MERGE (n:Service {id: "serviceMaintenance"}) ON CREATE SET n.type = "Scheduled Maintenance"
+MERGE (n:Service {id: "serviceInsurance"}) ON CREATE SET n.type = "Insurance Renewal"
+MERGE (n:Service {id: "serviceAccident"}) ON CREATE SET n.type = "Accident Reporting"
+MERGE (n:Service {id: "serviceUpgrade"}) ON CREATE SET n.type = "Vehicle Upgrade"
+MERGE (n:Feedback {id: "feedbackAnkaraPurchase"}) ON CREATE SET n.comment = "Exemplary sales assistance and attention to detail"
+MERGE (n:Feedback {id: "feedbackIzmirMaintenance"}) ON CREATE SET n.comment = "Prompt and professional service"
+MERGE (n:Feedback {id: "feedbackDiyarbakirInsurance"}) ON CREATE SET n.comment = "Efficient and informative process"
+MERGE (n:Feedback {id: "feedbackIstanbulAccident"}) ON CREATE SET n.comment = "Quick response and high-quality repair"
+MERGE (n:Feedback {id: "feedbackAnkaraUpgrade"}) ON CREATE SET n.comment = "Knowledgeable staff providing top-notch upgrade services"
+MERGE (n:Dealer {id: "dealerIstanbul"}) ON CREATE SET n.name = "Istanbul"
+MERGE (n:Vehicle {id: "vehicleBMWX5"}) ON CREATE SET n.model = "BMW X5"
+MERGE (n:Service {id: "serviceAccidentReporting"}) ON CREATE SET n.type = "Accident Reporting"
+MERGE (n:Feedback {id: "feedbackIstanbulBMWX5"}) ON CREATE SET n.comment = "Rapid and professional restoration"
+MERGE (n:Dealer {id: "dealerDiyarbakir"}) ON CREATE SET n.name = "Diyarbakir"
+MERGE (n:Vehicle {id: "vehicleLRRangeRoverSport"}) ON CREATE SET n.model = "LR Range Rover Sport"
+MERGE (n:Service {id: "serviceScheduledMaintenance"}) ON CREATE SET n.type = "Scheduled Maintenance"
+MERGE (n:Feedback {id: "feedbackDiyarbakirLRRangeRoverSport"}) ON CREATE SET n.comment = "Consistently reliable and thorough"
+MERGE (n:Dealer {id: "dealerIzmir"}) ON CREATE SET n.name = "Izmir"
+MERGE (n:Vehicle {id: "vehicleBMW3Series"}) ON CREATE SET n.model = "BMW 3 Serisi"
+MERGE (n:Service {id: "serviceVehiclePurchase"}) ON CREATE SET n.type = "Vehicle Purchase"
+MERGE (n:Feedback {id: "feedbackIzmirBMW3Series"}) ON CREATE SET n.comment = "Smooth and efficient buying process"
+MERGE (n:Dealer {id: "dealerAnkara"}) ON CREATE SET n.name = "Ankara"
+MERGE (n:Vehicle {id: "vehicleJaguarXJ"}) ON CREATE SET n.model = "Jaguar XJ"
+MERGE (n:Service {id: "serviceInsuranceRenewal"}) ON CREATE SET n.type = "Insurance Renewal"
+MERGE (n:Feedback {id: "feedbackAnkaraJaguarXJ"}) ON CREATE SET n.comment = "Clear guidance and seamless transaction"
+MERGE (n:Dealer {id: "dealerIstanbulMINI"}) ON CREATE SET n.name = "Istanbul"
+MERGE (n:Vehicle {id: "vehicleMINIHatch"}) ON CREATE SET n.model = "MINI Hatch"
+MERGE (n:Service {id: "serviceVehicleUpgrade"}) ON CREATE SET n.type = "Vehicle Upgrade"
+MERGE (n:Feedback {id: "feedbackIstanbulMINIHatch"}) ON CREATE SET n.comment = "Creative solutions and outstanding service"
+MERGE (n:Dealer {id: "dealerDiyarbakir"}) ON CREATE SET n.name = "Diyarbakir"
+MERGE (n:Vehicle {id: "vehicleBMWM"}) ON CREATE SET n.model = "BMW M Serisi"
+MERGE (n:Service {id: "serviceScheduledMaintenance"}) ON CREATE SET n.type = "Scheduled Maintenance"
+MERGE (n:Feedback {id: "feedbackDiyarbakir"}) ON CREATE SET n.comment = "Meticulous and expert service"
+MERGE (n:Dealer {id: "dealerIzmir"}) ON CREATE SET n.name = "Izmir"
+MERGE (n:Vehicle {id: "vehicleJaguarFType"}) ON CREATE SET n.model = "Jaguar F-Type"
+MERGE (n:Service {id: "serviceAccidentReporting"}) ON CREATE SET n.type = "Accident Reporting"
+MERGE (n:Feedback {id: "feedbackIzmir"}) ON CREATE SET n.comment = "Exceptional workmanship and quick turnaround"
+MERGE (n:Dealer {id: "dealerAnkara"}) ON CREATE SET n.name = "Ankara"
+MERGE (n:Vehicle {id: "vehicleBMWi8"}) ON CREATE SET n.model = "BMW i8"
+MERGE (n:Service {id: "serviceInsuranceRenewal"}) ON CREATE SET n.type = "Insurance Renewal"
+MERGE (n:Feedback {id: "feedbackAnkara"}) ON CREATE SET n.comment = "Informative and efficient service"
+MERGE (n:Dealer {id: "dealerIstanbul"}) ON CREATE SET n.name = "Istanbul"
+MERGE (n:Vehicle {id: "vehicleLRRangeRoverSport"}) ON CREATE SET n.model = "LR Range Rover Sport"
+MERGE (n:Service {id: "serviceVehiclePurchase"}) ON CREATE SET n.type = "Vehicle Purchase"
+MERGE (n:Feedback {id: "feedbackIstanbul"}) ON CREATE SET n.comment = "Very accommodating and attentive to detail"
+MERGE (n:Dealer {id: "dealerIzmir2"}) ON CREATE SET n.name = "Izmir"
+MERGE (n:Vehicle {id: "vehicleBMWX5"}) ON CREATE SET n.model = "BMW X5"
+MERGE (n:Service {id: "serviceVehicleUpgrade"}) ON CREATE SET n.type = "Vehicle Upgrade"
+MERGE (n:Feedback {id: "feedbackIzmir2"}) ON CREATE SET n.comment = "Professional advice and superior installation quality"
+MERGE (a:Customer {id: "custErenGuler"}) MERGE (b:Vehicle {id: "vehicleBMWi8"}) MERGE (a)-[:OWNS]->(b)
+MERGE (a:Customer {id: "custSelinOzdemir"}) MERGE (b:Vehicle {id: "vehicleJaguarFType"}) MERGE (a)-[:OWNS]->(b)
+MERGE (a:Customer {id: "custMuratYildiz"}) MERGE (b:Vehicle {id: "vehicleLRRangeRoverSport"}) MERGE (a)-[:OWNS]->(b)
+MERGE (a:Customer {id: "custAycaKarasu"}) MERGE (b:Vehicle {id: "vehicleMINIHatch"}) MERGE (a)-[:OWNS]->(b)
+MERGE (a:Customer {id: "custBurakTekin"}) MERGE (b:Vehicle {id: "vehicleBMWX5"}) MERGE (a)-[:OWNS]->(b)
+MERGE (a:Customer {id: "custZeynepKaya"}) MERGE (b:Vehicle {id: "vehicleJaguarXJ"}) MERGE (a)-[:OWNS]->(b)
+MERGE (a:Customer {id: "custAliDemirci"}) MERGE (b:Vehicle {id: "vehicleBMW3Series"}) MERGE (a)-[:OWNS]->(b)
+MERGE (a:Customer {id: "custElifCetin"}) MERGE (b:Vehicle {id: "vehicleBMWMseries"}) MERGE (a)-[:OWNS]->(b)
+MERGE (a:Customer {id: "custMehmetAksoy"}) MERGE (b:Vehicle {id: "vehicleBMWi8"}) MERGE (a)-[:OWNS]->(b)
+MERGE (a:Customer {id: "custBanuAltin"}) MERGE (b:Vehicle {id: "vehicleJaguarFType"}) MERGE (a)-[:OWNS]->(b)
+MERGE (a:Customer {id: "custCananYilmaz"}) MERGE (b:Vehicle {id: "vehicleRRSport"}) MERGE (a)-[:OWNS]->(b)
+MERGE (a:Customer {id: "custOsmanKara"}) MERGE (b:Vehicle {id: "vehicleBMW3Series"}) MERGE (a)-[:OWNS]->(b)
+MERGE (a:Customer {id: "custSedaAltin"}) MERGE (b:Vehicle {id: "vehicleMINIHatch"}) MERGE (a)-[:OWNS]->(b)
+MERGE (a:Customer {id: "custEmrahSen"}) MERGE (b:Vehicle {id: "vehicleBMWX5"}) MERGE (a)-[:OWNS]->(b)
+MERGE (a:Customer {id: "custLeylaOzturk"}) MERGE (b:Vehicle {id: "vehicleJaguarXJ"}) MERGE (a)-[:OWNS]->(b)
+MERGE (a:Customer {id: "custAhmetDemir"}) MERGE (b:Vehicle {id: "vehicleBmwMSerisi"}) MERGE (a)-[:OWNS]->(b)
+MERGE (a:Customer {id: "custElifCelik"}) MERGE (b:Vehicle {id: "vehicleBmwI8"}) MERGE (a)-[:OWNS]->(b)
+MERGE (a:Customer {id: "custMuratOzcan"}) MERGE (b:Vehicle {id: "vehicleJaguarFType"}) MERGE (a)-[:OWNS]->(b)
+MERGE (a:Customer {id: "custZeynepKorkmaz"}) MERGE (b:Vehicle {id: "vehicleLrRangeRoverSport"}) MERGE (a)-[:OWNS]->(b)
+MERGE (a:Customer {id: "custBarisTekin"}) MERGE (b:Vehicle {id: "vehicleBmw3Serisi"}) MERGE (a)-[:OWNS]->(b)
+MERGE (a:Dealer {id: "dealerIstanbul"}) MERGE (b:Vehicle {id: "vehicleI8"}) MERGE (a)-[:PROVIDES_SERVICE_FOR_VEHICLE]->(b)
+MERGE (a:Vehicle {id: "vehicleI8"}) MERGE (b:Service {id: "servicePurchase"}) MERGE (a)-[:HAS_SERVICE]->(b)
+MERGE (a:Dealer {id: "dealerAnkara"}) MERGE (b:Vehicle {id: "vehicleFType"}) MERGE (a)-[:PROVIDES_SERVICE_FOR_VEHICLE]->(b)
+MERGE (a:Vehicle {id: "vehicleFType"}) MERGE (b:Service {id: "serviceMaintenance"}) MERGE (a)-[:HAS_SERVICE]->(b)
+MERGE (a:Dealer {id: "dealerIzmir"}) MERGE (b:Vehicle {id: "vehicleRRSport"}) MERGE (a)-[:PROVIDES_SERVICE_FOR_VEHICLE]->(b)
+MERGE (a:Vehicle {id: "vehicleRRSport"}) MERGE (b:Service {id: "serviceInsurance"}) MERGE (a)-[:HAS_SERVICE]->(b)
+MERGE (a:Dealer {id: "dealerDiyarbakir"}) MERGE (b:Vehicle {id: "vehicleHatch"}) MERGE (a)-[:PROVIDES_SERVICE_FOR_VEHICLE]->(b)
+MERGE (a:Vehicle {id: "vehicleHatch"}) MERGE (b:Service {id: "serviceAccident"}) MERGE (a)-[:HAS_SERVICE]->(b)
+MERGE (a:Dealer {id: "dealerIstanbulX5"}) MERGE (b:Vehicle {id: "vehicleX5"}) MERGE (a)-[:PROVIDES_SERVICE_FOR_VEHICLE]->(b)
+MERGE (a:Vehicle {id: "vehicleX5"}) MERGE (b:Service {id: "serviceUpgrade"}) MERGE (a)-[:HAS_SERVICE]->(b)
+MERGE (a:Dealer {id: "dealerAnkara"}) MERGE (b:Vehicle {id: "vehicleJaguarXJ"}) MERGE (a)-[:PROVIDES_SERVICE_FOR_VEHICLE]->(b)
+MERGE (a:Vehicle {id: "vehicleJaguarXJ"}) MERGE (b:Service {id: "servicePurchase"}) MERGE (a)-[:HAS_SERVICE]->(b)
+MERGE (a:Dealer {id: "dealerIzmir"}) MERGE (b:Vehicle {id: "vehicleBMW3Series"}) MERGE (a)-[:PROVIDES_SERVICE_FOR_VEHICLE]->(b)
+MERGE (a:Vehicle {id: "vehicleBMW3Series"}) MERGE (b:Service {id: "serviceMaintenance"}) MERGE (a)-[:HAS_SERVICE]->(b)
+MERGE (a:Dealer {id: "dealerDiyarbakir"}) MERGE (b:Vehicle {id: "vehicleBMWMSeries"}) MERGE (a)-[:PROVIDES_SERVICE_FOR_VEHICLE]->(b)
+MERGE (a:Vehicle {id: "vehicleBMWMSeries"}) MERGE (b:Service {id: "serviceInsurance"}) MERGE (a)-[:HAS_SERVICE]->(b)
+MERGE (a:Dealer {id: "dealerIstanbul"}) MERGE (b:Vehicle {id: "vehicleBMWi8"}) MERGE (a)-[:PROVIDES_SERVICE_FOR_VEHICLE]->(b)
+MERGE (a:Vehicle {id: "vehicleBMWi8"}) MERGE (b:Service {id: "serviceAccident"}) MERGE (a)-[:HAS_SERVICE]->(b)
+MERGE (a:Dealer {id: "dealerAnkara"}) MERGE (b:Vehicle {id: "vehicleJaguarFType"}) MERGE (a)-[:PROVIDES_SERVICE_FOR_VEHICLE]->(b)
+MERGE (a:Vehicle {id: "vehicleJaguarFType"}) MERGE (b:Service {id: "serviceUpgrade"}) MERGE (a)-[:HAS_SERVICE]->(b)
+MERGE (a:Dealer {id: "dealerIstanbul"}) MERGE (b:Vehicle {id: "vehicleBMWX5"}) MERGE (a)-[:PROVIDES_SERVICE_FOR_VEHICLE]->(b)
+MERGE (a:Vehicle {id: "vehicleBMWX5"}) MERGE (b:Service {id: "serviceAccidentReporting"}) MERGE (a)-[:HAS_SERVICE]->(b)
+MERGE (a:Dealer {id: "dealerDiyarbakir"}) MERGE (b:Vehicle {id: "vehicleLRRangeRoverSport"}) MERGE (a)-[:PROVIDES_SERVICE_FOR_VEHICLE]->(b)
+MERGE (a:Vehicle {id: "vehicleLRRangeRoverSport"}) MERGE (b:Service {id: "serviceScheduledMaintenance"}) MERGE (a)-[:HAS_SERVICE]->(b)
+MERGE (a:Dealer {id: "dealerIzmir"}) MERGE (b:Vehicle {id: "vehicleBMW3Series"}) MERGE (a)-[:PROVIDES_SERVICE_FOR_VEHICLE]->(b)
+MERGE (a:Vehicle {id: "vehicleBMW3Series"}) MERGE (b:Service {id: "serviceVehiclePurchase"}) MERGE (a)-[:HAS_SERVICE]->(b)
+MERGE (a:Dealer {id: "dealerAnkara"}) MERGE (b:Vehicle {id: "vehicleJaguarXJ"}) MERGE (a)-[:PROVIDES_SERVICE_FOR_VEHICLE]->(b)
+MERGE (a:Vehicle {id: "vehicleJaguarXJ"}) MERGE (b:Service {id: "serviceInsuranceRenewal"}) MERGE (a)-[:HAS_SERVICE]->(b)
+MERGE (a:Dealer {id: "dealerIstanbulMINI"}) MERGE (b:Vehicle {id: "vehicleMINIHatch"}) MERGE (a)-[:PROVIDES_SERVICE_FOR_VEHICLE]->(b)
+MERGE (a:Vehicle {id: "vehicleMINIHatch"}) MERGE (b:Service {id: "serviceVehicleUpgrade"}) MERGE (a)-[:HAS_SERVICE]->(b)
+MERGE (a:Dealer {id: "dealerDiyarbakir"}) MERGE (b:Vehicle {id: "vehicleBMWM"}) MERGE (a)-[:PROVIDES_SERVICE_FOR_VEHICLE]->(b)
+MERGE (a:Vehicle {id: "vehicleBMWM"}) MERGE (b:Service {id: "serviceScheduledMaintenance"}) MERGE (a)-[:HAS_SERVICE]->(b)
+MERGE (a:Dealer {id: "dealerIzmir"}) MERGE (b:Vehicle {id: "vehicleJaguarFType"}) MERGE (a)-[:PROVIDES_SERVICE_FOR_VEHICLE]->(b)
+MERGE (a:Vehicle {id: "vehicleJaguarFType"}) MERGE (b:Service {id: "serviceAccidentReporting"}) MERGE (a)-[:HAS_SERVICE]->(b)
+MERGE (a:Dealer {id: "dealerAnkara"}) MERGE (b:Vehicle {id: "vehicleBMWi8"}) MERGE (a)-[:PROVIDES_SERVICE_FOR_VEHICLE]->(b)
+MERGE (a:Vehicle {id: "vehicleBMWi8"}) MERGE (b:Service {id: "serviceInsuranceRenewal"}) MERGE (a)-[:HAS_SERVICE]->(b)
+MERGE (a:Dealer {id: "dealerIstanbul"}) MERGE (b:Vehicle {id: "vehicleLRRangeRoverSport"}) MERGE (a)-[:PROVIDES_SERVICE_FOR_VEHICLE]->(b)
+MERGE (a:Vehicle {id: "vehicleLRRangeRoverSport"}) MERGE (b:Service {id: "serviceVehiclePurchase"}) MERGE (a)-[:HAS_SERVICE]->(b)
+MERGE (a:Dealer {id: "dealerIzmir2"}) MERGE (b:Vehicle {id: "vehicleBMWX5"}) MERGE (a)-[:PROVIDES_SERVICE_FOR_VEHICLE]->(b)
+MERGE (a:Vehicle {id: "vehicleBMWX5"}) MERGE (b:Service {id: "serviceVehicleUpgrade"}) MERGE (a)-[:HAS_SERVICE]->(b)

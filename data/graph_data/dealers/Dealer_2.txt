@@ -1,0 +1,34 @@
+Vehicle Model: Jaguar XJ
+Dealer Location: Ankara
+Service Type: Vehicle Purchase
+Purchase Date: 2023-08-15
+Service Details: Acquisition of a luxury sedan with customized interiors
+Dealer Feedback: Exemplary sales assistance and attention to detail
+
+Vehicle Model: BMW 3 Serisi
+Dealer Location: Izmir
+Service Type: Scheduled Maintenance
+Maintenance Date: 2023-07-05
+Service Details: Oil change and brake system check
+Dealer Feedback: Prompt and professional service
+
+Vehicle Model: BMW M Serisi
+Dealer Location: Diyarbakir
+Service Type: Insurance Renewal
+Renewal Date: 2023-06-30
+Service Details: Extension of existing coverage with added roadside assistance
+Dealer Feedback: Efficient and informative process
+
+Vehicle Model: BMW i8
+Dealer Location: Istanbul
+Service Type: Accident Reporting
+Reporting Date: 2023-09-01
+Service Details: Front windshield replacement and headlight repair
+Dealer Feedback: Quick response and high-quality repair
+
+Vehicle Model: Jaguar F-Type
+Dealer Location: Ankara
+Service Type: Vehicle Upgrade
+Upgrade Date: 2023-08-22
+Service Details: Performance enhancement with new exhaust system
+Dealer Feedback: Knowledgeable staff providing top-notch upgrade services

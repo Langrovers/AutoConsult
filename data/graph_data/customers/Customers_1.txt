@@ -1,0 +1,49 @@
+Customer: Eren Guler
+Age: 33
+Sex: Male
+Occupation: Graphic Designer
+Vehicle Purchased: BMW i8
+Dealer: Istanbul
+Action: Vehicle Purchase
+License Duration: 15 years
+Customer Tenure: 3 years
+
+Customer: Selin Ozdemir
+Age: 29
+Sex: Female
+Occupation: Software Developer
+Vehicle Purchased: Jaguar F-Type
+Dealer: Ankara
+Action: Insurance Renewal
+License Duration: 11 years
+Customer Tenure: 2 years
+
+Customer: Murat Yildiz
+Age: 46
+Sex: Male
+Occupation: Surgeon
+Vehicle Purchased: LR Range Rover Sport
+Dealer: Izmir
+Action: Scheduled Maintenance
+License Duration: 28 years
+Customer Tenure: 12 years
+
+Customer: Ayca Karasu
+Age: 24
+Sex: Female
+Occupation: University Student
+Vehicle Purchased: MINI Hatch
+Dealer: Diyarbakir
+Action: Accident Reporting
+License Duration: 6 years
+Customer Tenure: 1 year
+
+Customer: Burak Tekin
+Age: 40
+Sex: Male
+Occupation: Business Owner
+Vehicle Purchased: BMW X5
+Dealer: Istanbul
+Action: Vehicle Upgrade
+License Duration: 22 years
+Customer Tenure: 10 years

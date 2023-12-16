@@ -1,0 +1,49 @@
+Customer Name: Ahmet Demir
+Age: 47
+Sex: Male
+Occupation: Entrepreneur
+Vehicle Purchased: BMW M Serisi
+Dealer: Istanbul
+Action: Insurance Renewal
+License Duration: 29 years
+Customer Tenure: 15 years
+
+Customer Name: Elif Celik
+Age: 26
+Sex: Female
+Occupation: Architect
+Vehicle Purchased: BMW i8
+Dealer: Ankara
+Action: Vehicle Upgrade
+License Duration: 8 years
+Customer Tenure: 3 years
+
+Customer Name: Murat Ozcan
+Age: 40
+Sex: Male
+Occupation: Doctor
+Vehicle Purchased: Jaguar F-Type
+Dealer: Diyarbakir
+Action: Vehicle Purchase
+License Duration: 22 years
+Customer Tenure: 10 years
+
+Customer Name: Zeynep Korkmaz
+Age: 35
+Sex: Female
+Occupation: Marketing Manager
+Vehicle Purchased: LR Range Rover Sport
+Dealer: Izmir
+Action: Accident Reporting
+License Duration: 17 years
+Customer Tenure: 7 years
+
+Customer Name: Baris Tekin
+Age: 30
+Sex: Male
+Occupation: Engineer
+Vehicle Purchased: BMW 3 Serisi
+Dealer: Istanbul
+Action: Vehicle Purchase
+License Duration: 12 years
+Customer Tenure: 4 years

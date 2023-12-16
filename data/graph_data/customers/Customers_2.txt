@@ -1,0 +1,49 @@
+Customer: Zeynep Kaya
+Age: 37
+Sex: Female
+Occupation: Lawyer
+Vehicle Purchased: Jaguar XJ
+Dealer: Ankara
+Action: Vehicle Purchase
+License Duration: 19 years
+Customer Tenure: 8 years
+
+Customer: Ali Demirci
+Age: 31
+Sex: Male
+Occupation: Architect
+Vehicle Purchased: BMW 3 Serisi
+Dealer: Izmir
+Action: Insurance Renewal
+License Duration: 13 years
+Customer Tenure: 4 years
+
+Customer: Elif Cetin
+Age: 42
+Sex: Female
+Occupation: Marketing Manager
+Vehicle Purchased: BMW M Serisi
+Dealer: Diyarbakir
+Action: Scheduled Maintenance
+License Duration: 24 years
+Customer Tenure: 9 years
+
+Customer: Mehmet Aksoy
+Age: 35
+Sex: Male
+Occupation: Engineer
+Vehicle Purchased: BMW i8
+Dealer: Istanbul
+Action: Accident Reporting
+License Duration: 17 years
+Customer Tenure: 5 years
+
+Customer: Banu Altin
+Age: 30
+Sex: Female
+Occupation: Entrepreneur
+Vehicle Purchased: Jaguar F-Type
+Dealer: Ankara
+Action: Vehicle Purchase
+License Duration: 12 years
+Customer Tenure: 3 years

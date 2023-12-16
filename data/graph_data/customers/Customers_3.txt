@@ -1,0 +1,49 @@
+Customer Name: Canan Yilmaz
+Age: 28
+Sex: Female
+Occupation: Chef
+Vehicle Purchased: LR Range Rover Sport
+Dealer: Izmir
+Action: Vehicle Purchase
+License Duration: 10 years
+Customer Tenure: 2 years
+
+Customer Name: Osman Kara
+Age: 43
+Sex: Male
+Occupation: Journalist
+Vehicle Purchased: BMW 3 Serisi
+Dealer: Istanbul
+Action: Scheduled Maintenance
+License Duration: 25 years
+Customer Tenure: 11 years
+
+Customer Name: Seda Altin
+Age: 39
+Sex: Female
+Occupation: Banker
+Vehicle Purchased: MINI Hatch
+Dealer: Ankara
+Action: Insurance Renewal
+License Duration: 21 years
+Customer Tenure: 9 years
+
+Customer Name: Emrah Sen
+Age: 34
+Sex: Male
+Occupation: Software Developer
+Vehicle Purchased: BMW X5
+Dealer: Diyarbakir
+Action: Vehicle Upgrade
+License Duration: 16 years
+Customer Tenure: 6 years
+
+Customer Name: Leyla Ozturk
+Age: 31
+Sex: Female
+Occupation: School Principal
+Vehicle Purchased: Jaguar XJ
+Dealer: Izmir
+Action: Accident Reporting
+License Duration: 13 years
+Customer Tenure: 5 years
