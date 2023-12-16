@@ -9,16 +9,10 @@ from graph.ingestion import ingestion_pipeline, neo4j_ingestion
 os.environ["OPENAI_API_KEY"] = Config.openai_api_key
 
 with gr.Blocks(theme=gr.themes.Soft()) as app:
-    gr.Markdown("### Audio Recorder")
-    gr.Markdown(
-        "Press 'Start/Resume Recording' to record or resume audio, 'Pause Recording' to pause, and 'Stop Recording' to end and save the audio.")
     start_resume_btn = gr.Button("Start/Resume Recording")
     stop_btn = gr.Button("Stop Recording")
     get_advice_btn = gr.Button("Get Advice From GPT")
     get_summary_btn = gr.Button("Get Summary of Customer")
-
-    talk_graph_btn = gr.Button("Talk graph")
-    input_text = gr.Textbox(placeholder="Enter text here", label="Input Text")
 
     status_label = gr.Label()
 
@@ -27,7 +21,9 @@ with gr.Blocks(theme=gr.themes.Soft()) as app:
     get_advice_btn.click(fn=ask_sales_asistant, inputs=[], outputs=status_label)
     get_summary_btn.click(fn=get_summary_of_customer, inputs=[], outputs=status_label)
 
-    talk_graph_btn.click(fn=talk_graph, inputs=[input_text], outputs=status_label)
+    chatbot = gr.ChatInterface(fn=talk_graph, examples=["Which dealers provide service for BMW vehicles?",
+                                                        "Find all vehicles owned by customers over 40 years old."],
+                               title="Sales Assistant Bot")
 
 if __name__ == "__main__":
     if Config.GENERATE_CYPER:

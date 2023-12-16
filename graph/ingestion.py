@@ -87,7 +87,7 @@ def ingestion_pipeline():
         "dealers": action_dealer_template,
     }
 
-    # Extrating the entites and relationships from each folder, append into one json_object
+    # Extrating the entites and relationships from each fo  lder, append into one json_object
     entities_relationships = []
     for key, value in folders.items():
         entities_relationships.extend(extract_entities_relationships(key, value))

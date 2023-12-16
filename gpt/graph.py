@@ -30,7 +30,7 @@ def process_gpt(file_prompt, system_msg):
     sleep(8)
     return nlp_results
 
-def talk_graph(user_input):
+def talk_graph(user_input, history):
     """Processes user input using a graph-based QA system with GPT-4.
 
     Args:
@@ -62,5 +62,5 @@ def talk_graph(user_input):
     result = chain(user_input)
 
     #TODO: GENERATE REPORT FROM RESULT
-    return str(result)
+    return str(result["result"])
 
