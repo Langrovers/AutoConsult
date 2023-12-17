@@ -33,7 +33,6 @@ Functions of the project:
 - `prompts/`: Prompts for GPT models.
 - `main.py`: Entry point for the application.
 - `config.py`: Configuration settings.
-- `LICENSE`: License information.
 - `poetry.lock`: Poetry dependencies lock file.
 
 ## Installation
