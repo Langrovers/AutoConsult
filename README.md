@@ -43,9 +43,9 @@ Functions of the project:
 
 
 ## Usage
-Add your required API keys in the `config.py` file. 
-
-Run `main.py` to start the application.
+1. Add your required API keys in the `config.py` file.
+2. Change data paths `config.py`
+3. Run `main.py` to start the application.
 
 ## Authors
 - Oğuzhan Kır https://github.com/oguzhankir
