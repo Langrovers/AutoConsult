@@ -47,10 +47,6 @@ Add your required API keys in the `config.py` file.
 
 Run `main.py` to start the application.
 
-## License
-Refer to the `LICENSE` file.
-
-
 ## Authors
 - Oğuzhan Kır https://github.com/oguzhankir
 - Gökay Aydoğan https://github.com/gokayfem
