@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "speech-graph-generator"
+name = "AutoConsult"
 version = "0.1.0"
 description = ""
-authors = ["oguzhankir <oguzhan.kir@b2metric.com>"]
+authors = ["oguzhankir", "gokayfem"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
