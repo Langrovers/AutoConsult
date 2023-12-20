@@ -20,7 +20,7 @@ Functions of the project:
 - `data/`: Data storage.
   - `call_data/`: Stores call records.
   - `graph_data/`: Stores graph data and cypher text.
-- `gpt/`: NLP processing.
+- `gpt/`: Natural Language Processing.
   - `graph.py`: Creates graph from text.
   - `sales_assistant.py`: During the current call, the customer representative can receive instant advice.
   - `summary_of_history.py`: Brings a summary of the customer's previous calls.
