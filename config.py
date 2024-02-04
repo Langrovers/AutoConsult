@@ -8,7 +8,7 @@ class Config:
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     whisper_model_type = "large"
     embedding_model = ""
-    openai_api_key = "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"
+    openai_api_key = ""
     user_history_path = "/home/oguz/Desktop/personal/AutoConsult/data/call_data/records/user1"
     sales_asistant_dialog_path = os.path.join(user_history_path,
                                               sorted([pd.to_datetime(f) for f in os.listdir(user_history_path)])[
